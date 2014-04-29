@@ -1,4 +1,4 @@
-# Kanban In Action -errata
+# Kanban In Action - errata
 
 This is the errata-site for the book Kanban In Action. Please help us find the errors and make the next edition even better.
 
