@@ -7,7 +7,7 @@ This is the errata-site for the book Kanban In Action. Please help us find the e
 ```Part 4, 'Teaching kanban' ...```  
 should be  
 ```removed since there's no part 4 in the book.```  
-- Page 56, Chapter 2, Last cartoon
+- Page 56, Chapter 2, Last cartoon  
   ```You don’t! Read more about this in chapter **4**, and adjust as needed.```  
   should be  
   ```You don’t! Read more about this in chapter **6**, and adjust as needed```  
