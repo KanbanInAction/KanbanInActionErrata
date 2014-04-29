@@ -1,9 +1,8 @@
-KanbanInActionErrata
-====================
+# Kanban In Action -errata
 
 This is the errata-site for the book Kanban In Action. Please help us find the errors and make the next edition even better.
 
-# Noticed - not yet fixed:
+## Noticed - not yet fixed:
 - Page xxi, Introduction, second bullet
 ```Part 4, 'Teaching kanban' ...```
 should be
@@ -13,5 +12,5 @@ should be
   should be
   ```You don’t! Read more about this in chapter **6**, and adjust as needed```
 
-# Fixed in upcoming manuscipt
+## Fixed in upcoming manuscipt
 - Ah, well... nothing yet. This is just a placeholder
