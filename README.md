@@ -16,5 +16,7 @@ should be
   
   ```You don’t! Read more about this in chapter 6, and adjust as needed```  
 
+- Better diagram for Context switching effects. Make each project a separate staple in the diagram to show that with two projects it's actually just 40% EACH. Right now it looks like it's just 40% spent on projects. 
+
 ## Fixed in upcoming manuscipt
 - Ah, well... nothing yet. This is just a placeholder
